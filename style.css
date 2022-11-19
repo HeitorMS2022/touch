@@ -1,0 +1,19 @@
+body{
+    background-image: url("arte.jpeg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+#titulo{
+    color: yellow;
+    font-size: 40px;
+}
+#canvas{
+    border-width: 10px;
+    background-color: white;
+    border-radius: 50px;
+    border-style: ridge;
+}
+#limpar{
+    background-color: aqua;
+}
